@@ -1,5 +1,5 @@
 # SCT_WD_3
-# Tic-Tac-Toe Game 🎮
+# Tic-Tac-Toe Web Application🎮
 Welcome to my 𝐓𝐢𝐜-𝐓𝐚𝐜-𝐓𝐨𝐞 𝐠𝐚𝐦𝐞, developed as part of the 𝐒𝐤𝐢𝐥𝐥𝐂𝐫𝐚𝐟𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. This project is designed using HTML, CSS, and JavaScript, showcasing interactive gameplay and responsive design. Whether you're playing against a friend or the computer, this classic game offers a fun, user-friendly experience.
 
 ## Features
